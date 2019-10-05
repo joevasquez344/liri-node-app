@@ -1,0 +1,5 @@
+Spotify API key (Client ID): dc8931026e204a2890b57ef4b1a672b2
+
+Spotify API Secret Key (Client Secret): 47bc7efaa01b436a98eff4243142b977
+
+OMDb API Key: 25f92cb7

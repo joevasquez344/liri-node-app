@@ -1,0 +1,1 @@
+var selectionInput = process.argv[2]
